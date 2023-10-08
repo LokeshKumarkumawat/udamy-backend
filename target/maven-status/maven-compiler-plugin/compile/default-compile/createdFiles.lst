@@ -1,0 +1,13 @@
+com\course\udamy\repository\VideoRepository.class
+com\course\udamy\UdamyApplication.class
+com\course\udamy\config\WebMvcConfig.class
+com\course\udamy\dto\UploadVideoResponse.class
+com\course\udamy\service\S3Service.class
+com\course\udamy\model\Comment.class
+com\course\udamy\controller\VideoController.class
+com\course\udamy\dto\VideoDto.class
+com\course\udamy\model\VideoStatus.class
+com\course\udamy\service\FileService.class
+com\course\udamy\model\User.class
+com\course\udamy\service\VideoService.class
+com\course\udamy\model\Video.class
